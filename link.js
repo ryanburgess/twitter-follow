@@ -8,7 +8,7 @@ prompt.start();
 
 // prompt questions
 prompt.get(['name', 'twitter', 'category'], function (err, result) {
-  const obj = {'name': result.name, 'twitter': result.twitter, 'cat': result.category};
+  const obj = {'name': result.name.trim(), 'twitter': result.twitter.trim(), 'cat': result.category.trim()};
   fullList.push(obj);
   fs.writeFileSync('./list.json', JSON.stringify(fullList, null, 4));
   console.log('New Twitter follower added!');

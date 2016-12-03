@@ -308,5 +308,200 @@
         "name": "Matt Zabriskie",
         "twitter": "mzabriskie",
         "cat": "engineer"
+    },
+    {
+        "name": "Lin Clark",
+        "twitter": "linclark",
+        "cat": "engineer"
+    },
+    {
+        "name": "Full Stack TO",
+        "twitter": "fullstackTO",
+        "cat": "conference"
+    },
+    {
+        "name": "SF Node",
+        "twitter": "sfnode",
+        "cat": "conference"
+    },
+    {
+        "name": "Una Kravets",
+        "twitter": "una",
+        "cat": "engineer"
+    },
+    {
+        "name": "James Kyle",
+        "twitter": "thejameskyle",
+        "cat": "engineer"
+    },
+    {
+        "name": "Devon Lindsey",
+        "twitter": "devonbl",
+        "cat": "engineer"
+    },
+    {
+        "name": "Laurie Voss",
+        "twitter": "seldo",
+        "cat": "engineer"
+    },
+    {
+        "name": "James Womack",
+        "twitter": "james_womack",
+        "cat": "engineer"
+    },
+    {
+        "name": "Stephen Rivas",
+        "twitter": "spr",
+        "cat": "engineer"
+    },
+    {
+        "name": "Marcy Sutton",
+        "twitter": "marcysutton",
+        "cat": "engineer"
+    },
+    {
+        "name": "Elijah Manor",
+        "twitter": "elijahmanor",
+        "cat": "engineer"
+    },
+    {
+        "name": "React",
+        "twitter": "reactjs",
+        "cat": "company"
+    },
+    {
+        "name": "Jeffrey Zeldman",
+        "twitter": "zeldman",
+        "cat": "engineer"
+    },
+    {
+        "name": "TJ Holowaychuk",
+        "twitter": "tjholowaychuk",
+        "cat": "engineer"
+    },
+    {
+        "name": "Dan Shaw",
+        "twitter": "dshaw",
+        "cat": "engineer"
+    },
+    {
+        "name": "O'Reilly Fluent",
+        "twitter": "FluentConf",
+        "cat": "conference"
+    },
+    {
+        "name": "HTML5DevConf",
+        "twitter": "html5devconf",
+        "cat": "conference"
+    },
+    {
+        "name": "Square Engineering",
+        "twitter": "SquareEng",
+        "cat": "company"
+    },
+    {
+        "name": "Airbnb Engineering",
+        "twitter": "AirbnbEng",
+        "cat": "company"
+    },
+    {
+        "name": "Twitter Engineering",
+        "twitter": "TwitterEng",
+        "cat": "company"
+    },
+    {
+        "name": "Alex Liu",
+        "twitter": "stinkydofu",
+        "cat": "engineer"
+    },
+    {
+        "name": "Node.js",
+        "twitter": "nodejs",
+        "cat": "company"
+    },
+    {
+        "name": "Stacy London",
+        "twitter": "stacylondoner",
+        "cat": "engineer"
+    },
+    {
+        "name": "Scott Hanselman",
+        "twitter": "shanselman",
+        "cat": "engineer"
+    },
+    {
+        "name": "Wai Lun Poon",
+        "twitter": "monkeytypewritr",
+        "cat": "engineer"
+    },
+    {
+        "name": "Kyle Simpson",
+        "twitter": "getify",
+        "cat": "engineer"
+    },
+    {
+        "name": "Chris Hunt",
+        "twitter": "chrishunt",
+        "cat": "engineer"
+    },
+    {
+        "name": "CSS-Tricks",
+        "twitter": "Real_CSS_Tricks",
+        "cat": "company"
+    },
+    {
+        "name": "Brad Frost",
+        "twitter": "brad_frost",
+        "cat": "engineer"
+    },
+    {
+        "name": "JavaScript Daily",
+        "twitter": "JavaScriptDaily",
+        "cat": "company"
+    },
+    {
+        "name": "Dave Rupert",
+        "twitter": "davatron5000",
+        "cat": "engineer"
+    },
+    {
+        "name": "Chris Heilmann",
+        "twitter": "codepo8",
+        "cat": "engineer"
+    },
+    {
+        "name": "Steve Souders",
+        "twitter": "Souders",
+        "cat": "engineer"
+    },
+    {
+        "name": "Val Head",
+        "twitter": "vlh",
+        "cat": "engineer"
+    },
+    {
+        "name": "Harry Roberts",
+        "twitter": "csswizardry",
+        "cat": "engineer"
+    },
+    {
+        "name": "Lea Verou",
+        "twitter": "LeaVerou",
+        "cat": "engineer"
+    },
+    {
+        "name": "Chris Coyier",
+        "twitter": "chriscoyier",
+        "cat": "engineer"
+    },
+    {
+        "name": "Smashing Magazine",
+        "twitter": "smashingmag",
+        "cat": "company"
+    },
+    {
+        "name": "Paul Irish",
+        "twitter": "paul_irish",
+        "cat": "engineer"
     }
 ]
