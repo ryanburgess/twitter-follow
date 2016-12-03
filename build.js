@@ -5,6 +5,7 @@ const engineer = [];
 const company = [];
 const conference = [];
 
+// title and description for the Readme
 let content = '# People to follow on Twitter \n A list of resources/people to follow on Twitter.';
 
 // create list of people to follow
@@ -42,8 +43,6 @@ const ouputLinks = (obj, title) => {
      );
     }
   }
-  
-  return obj;
 }
 
 // create content of links
