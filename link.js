@@ -14,13 +14,13 @@ const schema = {
     },
     twitter: {
       description: 'Twitter handle',
-      pattern: /^@?(\w){1,15}$/,
-      message: 'Must be a valid Twitter handle',
+      pattern: /^[a-zA-Z\s\-]+$/,
+      message: 'Must be a valid URL',
       required: true
     },
     category: {
       description: 'Category (engineer, company, conference)',
-      pattern: /(^engineer$)?(^company$)?(^conference$)/,
+      pattern: /^(engineer|company|conference)/,
       message: 'Must be of the valid categories',
       required: true
     }
