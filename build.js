@@ -22,11 +22,6 @@ for (const resource of obj) {
   }
 }
 
-// capetalize first letter
-const capital = (string) => {
-  return string.charAt(0).toUpperCase() + string.slice(1);
-}
-
 // create content of the list of links
 const ouputLinks = (obj, title) => {
   // sort in alphabetical
