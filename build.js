@@ -51,6 +51,7 @@ const ouputLinks = (obj, title) => {
   return obj;
 }
 
+// create content of links
 ouputLinks(engineer, 'Engineers');
 ouputLinks(company, 'Companies');
 ouputLinks(conference, 'Conferences');
