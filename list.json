@@ -1,0 +1,312 @@
+[
+    {
+        "name": "Ryan Burgess",
+        "twitter": "burgessdryan",
+        "cat": "engineer"
+    },
+    {
+        "name": "Jem Young",
+        "twitter": "JemYoung",
+        "cat": "engineer"
+    },
+    {
+        "name": "Brian Holt",
+        "twitter": "holtbt",
+        "cat": "engineer"
+    },
+    {
+        "name": "Mars Jullian",
+        "twitter": "marsjosephine",
+        "cat": "engineer"
+    },
+    {
+        "name": "Ryan Anklam",
+        "twitter": "bittersweetryan",
+        "cat": "engineer"
+    },
+    {
+        "name": "Derrick Showers",
+        "twitter": "derrickshowers",
+        "cat": "engineer"
+    },
+    {
+        "name": "Augustus Yuan",
+        "twitter": "augburto",
+        "cat": "engineer"
+    },
+    {
+        "name": "Tony Edwards",
+        "twitter": "tedwards947",
+        "cat": "engineer"
+    },
+    {
+        "name": "Micah Ransdell",
+        "twitter": "mjr578",
+        "cat": "engineer"
+    },
+    {
+        "name": "Chris Saint-Amant",
+        "twitter": "csaintamant",
+        "cat": "engineer"
+    },
+    {
+        "name": "Yunong Xiao",
+        "twitter": "YunongX",
+        "cat": "engineer"
+    },
+    {
+        "name": "Tyler Hughes",
+        "twitter": "iampbt",
+        "cat": "engineer"
+    },
+    {
+        "name": "Naoufal Kadhom",
+        "twitter": "naoufal",
+        "cat": "engineer"
+    },
+    {
+        "name": "Michael Ridgway",
+        "twitter": "theridgway",
+        "cat": "engineer"
+    },
+    {
+        "name": "Jacques Favreau",
+        "twitter": "betaorbust",
+        "cat": "engineer"
+    },
+    {
+        "name": "Ben Lesh",
+        "twitter": "BenLesh",
+        "cat": "engineer"
+    },
+    {
+        "name": "Jafar Husain",
+        "twitter": "jhusain",
+        "cat": "engineer"
+    },
+    {
+        "name": "Jay Phelps",
+        "twitter": "_jayphelps",
+        "cat": "engineer"
+    },
+    {
+        "name": "Clarence Leung",
+        "twitter": "clarler",
+        "cat": "engineer"
+    },
+    {
+        "name": "Sarah Drasner",
+        "twitter": "sarah_edo",
+        "cat": "engineer"
+    },
+    {
+        "name": "Dan Abramov",
+        "twitter": "dan_abramov",
+        "cat": "engineer"
+    },
+    {
+        "name": "Eran Hammer",
+        "twitter": "eranhammer",
+        "cat": "engineer"
+    },
+    {
+        "name": "Lee Byron",
+        "twitter": "leeb",
+        "cat": "engineer"
+    },
+    {
+        "name": "Pete Hunt",
+        "twitter": "floydophone",
+        "cat": "engineer"
+    },
+    {
+        "name": "Sebastian McKenzie",
+        "twitter": "sebmck",
+        "cat": "engineer"
+    },
+    {
+        "name": "Ryan Florence",
+        "twitter": "ryanflorence",
+        "cat": "engineer"
+    },
+    {
+        "name": "Michael Jackson",
+        "twitter": "mjackson",
+        "cat": "engineer"
+    },
+    {
+        "name": "Bonnie Eisenman",
+        "twitter": "brindelle",
+        "cat": "engineer"
+    },
+    {
+        "name": "Matthew Podwysocki",
+        "twitter": "mattpodwysocki",
+        "cat": "engineer"
+    },
+    {
+        "name": "Yehuda Katz",
+        "twitter": "wycats",
+        "cat": "engineer"
+    },
+    {
+        "name": "Tom Dale",
+        "twitter": "tomdale",
+        "cat": "engineer"
+    },
+    {
+        "name": "Jed Watson",
+        "twitter": "JedWatson",
+        "cat": "engineer"
+    },
+    {
+        "name": "Jon Kuperman",
+        "twitter": "jkup",
+        "cat": "engineer"
+    },
+    {
+        "name": "Zack Argyle",
+        "twitter": "ZackArgyle",
+        "cat": "engineer"
+    },
+    {
+        "name": "Lauren Tan",
+        "twitter": "sugarpirate_",
+        "cat": "engineer"
+    },
+    {
+        "name": "Luke Westby",
+        "twitter": "luke_dot_js",
+        "cat": "engineer"
+    },
+    {
+        "name": "Rebecca Murphey",
+        "twitter": "rmurphey",
+        "cat": "engineer"
+    },
+    {
+        "name": "Pony Foo",
+        "twitter": "ponyfoo",
+        "cat": "engineer"
+    },
+    {
+        "name": "Sam Saccone",
+        "twitter": "samccone",
+        "cat": "engineer"
+    },
+    {
+        "name": "Ken Wheeler",
+        "twitter": "ken_wheeler",
+        "cat": "engineer"
+    },
+    {
+        "name": "Henry Zhu",
+        "twitter": "left_pad",
+        "cat": "engineer"
+    },
+    {
+        "name": "Jyri Tuulos",
+        "twitter": "jtuulos",
+        "cat": "engineer"
+    },
+    {
+        "name": "Harry Wolff",
+        "twitter": "hswolff",
+        "cat": "engineer"
+    },
+    {
+        "name": "Tim Branyen",
+        "twitter": "tbranyen",
+        "cat": "engineer"
+    },
+    {
+        "name": "React Rally",
+        "twitter": "reactrally",
+        "cat": "conference"
+    },
+    {
+        "name": "Front End Happy Hour",
+        "twitter": "frontendhh",
+        "cat": "company"
+    },
+    {
+        "name": "Netflix UIE",
+        "twitter": "netflixUIE",
+        "cat": "company"
+    },
+    {
+        "name": "Enterprise JS",
+        "twitter": "EnterpriseJS",
+        "cat": "company"
+    },
+    {
+        "name": "TC39",
+        "twitter": "TC39",
+        "cat": "company"
+    },
+    {
+        "name": "Michael Paulson",
+        "twitter": "_michaelpaulson",
+        "cat": "engineer"
+    },
+    {
+        "name": "Brendan Eich",
+        "twitter": "BrendanEich",
+        "cat": "engineer"
+    },
+    {
+        "name": "Nik Molnar",
+        "twitter": "nikmd23",
+        "cat": "engineer"
+    },
+    {
+        "name": "Substack",
+        "twitter": "substack",
+        "cat": "engineer"
+    },
+    {
+        "name": "Trevor Norris",
+        "twitter": "trevnorris",
+        "cat": "engineer"
+    },
+    {
+        "name": "Jamison Dance",
+        "twitter": "jergason",
+        "cat": "engineer"
+    },
+    {
+        "name": "JS Jabber",
+        "twitter": "JSJabber",
+        "cat": "company"
+    },
+    {
+        "name": "Todd Motto",
+        "twitter": "toddmotto",
+        "cat": "engineer"
+    },
+    {
+        "name": "Peter Piekarczyk",
+        "twitter": "peterpme",
+        "cat": "engineer"
+    },
+    {
+        "name": "Dave Smith",
+        "twitter": "djsmith42",
+        "cat": "engineer"
+    },
+    {
+        "name": "Jamis Charles",
+        "twitter": "jamischarles",
+        "cat": "engineer"
+    },
+    {
+        "name": "Abhinav Rastogi",
+        "twitter": "_abhinavrastogi",
+        "cat": "engineer"
+    },
+    {
+        "name": "Matt Zabriskie",
+        "twitter": "mzabriskie",
+        "cat": "engineer"
+    }
+]

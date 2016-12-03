@@ -1,0 +1,32 @@
+{
+  "name": "twitter-follow",
+  "version": "1.0.0",
+  "description": "A list of people to follow on Twitter",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanburgess/twitter-follow.git"
+  },
+  "keywords": [
+    "twitter",
+    "followers",
+    "follow",
+    "software",
+    "engineering",
+    "react",
+    "node",
+    "community",
+    "webdev",
+    "development",
+    "coding"
+  ],
+  "author": "Ryan Burgess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanburgess/twitter-follow/issues"
+  },
+  "homepage": "https://github.com/ryanburgess/twitter-follow#readme"
+}
