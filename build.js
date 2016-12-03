@@ -17,6 +17,8 @@ for (const resource of obj) {
     engineer.push({'name': name, 'twitter': twitter});
   }else if(cat === 'company') {
     company.push({'name': name, 'twitter': twitter});
+  }else if(cat === 'conference') {
+    conference.push({'name': name, 'twitter': twitter});
   }
 }
 

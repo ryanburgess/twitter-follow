@@ -67,3 +67,4 @@
  * [TC39 - @TC39](http://twitter.com/TC39)
 
 ## Conferences
+ * [React Rally - @reactrally](http://twitter.com/reactrally)
